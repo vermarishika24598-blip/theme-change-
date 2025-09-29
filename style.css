@@ -1,0 +1,49 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+}
+  .quote
+  {
+    background-color: whitesmoke;
+    border-radius: 20px;
+    height: 200px;
+    width 500vw;
+  }
+
+  h1{
+    size: 20px;
+  }
+  h2
+  {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    border: 5px;
+    border-color: rgb(154, 115, 25);
+    border-radius: 20px;
+  }
+  .button
+  {
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    text-transform: capitalize;
+  }
+  .honest
+  {
+    border-left: 20px ;
+    border-color: rgb(245, 245, 247);
+  }
+  button{
+    background-color: white;
+    border: 10px;
+    border-radius: 10px;
+    border-color: white;
+    padding: 10px;
+    cursor: pointer;
+  }
