@@ -1,2 +1,2 @@
 # theme-change-
-it is small and simple project using html css and javascript 
+it is small and simple project using html and css
